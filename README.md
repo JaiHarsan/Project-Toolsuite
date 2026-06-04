@@ -262,6 +262,8 @@ If you find this project useful:
 
 🍴 Fork the repository
 
+🤝 Contribute to the project
+
 
 
 ---
